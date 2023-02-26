@@ -122,6 +122,7 @@ nav {
 
 .scrolled {
     backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px); /* For other browsers idk */
     background-color: #ededed8c;
 }
 
